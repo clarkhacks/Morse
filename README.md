@@ -1,5 +1,5 @@
 # Morse Js
----
+
 The lightweight Morse Code javascript library you've been looking for. Weighing in at only 423 bytes compressed and GZipped.
 Morse Js automatically detects if your input is a number, letter, or Morse Code.
 
